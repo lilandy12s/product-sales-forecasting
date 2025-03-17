@@ -1,4 +1,4 @@
-### Product Sales Forecasting using Quantitative Methods
+### Product Sales Forecasting using Quantitative Methods 
 
 In a personal endevaour to learn about time series analysis and forecasting, I decided to reserach and explore various quantitative forecasting methods. The notebook in this repository documents the methods that can be applied to forecast product sales, along with a detailed explaination of the different metrics used to evaluate the forecasts.
 
